@@ -7,4 +7,4 @@ d12cf6a8bb73a854a59dab7080df0086  countrylist-willcaptcha.txt
 6a342dbb17b2f2ea4ec0e64d2157614d  jq-1.5-linux64
 705f9f2779b3b0d9834efc25928bbca3  md5sum.txt
 04aaa4f3a446a291c1c35294f0ac1faf  README.md
-147470daa54d8bf1f8c7d00a2628f82e  vddos-layer4-mapping
+5d16133f4cb7a83dc33c0c9d7163becb  vddos-layer4-mapping
