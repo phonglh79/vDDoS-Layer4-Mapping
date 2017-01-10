@@ -7,7 +7,7 @@ vDDoS Layer4 Mapping is a addon support for vDDoS Proxy Protection - Monitor pro
 
 1. Install vDDoS Proxy Protection:
 -------------
-Homepage: http://vddos.voduy.com
+To install vDDoS Proxy Protection please visit this site: http://vddos.voduy.com
 
 ----------
 
@@ -26,7 +26,7 @@ Using vDDoS Layer4 Mapping:
 
    Welcome to vDDoS, a HTTP(S) DDoS Protection Reverse Proxy. Thank you for using!
 
-        Please choose vDDoS Layer 4 Runnning Mode:
+        Please choose vDDoS Layer 4 Running Mode:
 
          CloudFlare Mode:
           1. Enable Captcha-All-Country Mode (Recommend This Mode For Large DDoS Attacks)
@@ -39,7 +39,7 @@ Using vDDoS Layer4 Mapping:
           6. Remove all rules exist on CSF
 
          End & Exit:
-          7. End All Process (Kill all Process Mode Runnning)
+          7. End All Process (Kill all Process Mode Running)
           8. Exit
 
 Enter Your Answer [1, 2, 3... or 8]:
