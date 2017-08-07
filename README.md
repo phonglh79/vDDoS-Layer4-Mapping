@@ -5,14 +5,14 @@ vDDoS Layer4 Mapping is a addon support for vDDoS Proxy Protection - Monitor pro
 
 ----------
 
-1. Install vDDoS Proxy Protection:
+1/ Install vDDoS Proxy Protection:
 -------------
 To install vDDoS Proxy Protection please visit this site: http://vddos.voduy.com
 
 ----------
 
 
-2. Install vDDoS Layer4 Mapping:
+2/ Install vDDoS Layer4 Mapping:
 -------------
 ```
 curl -L https://github.com/duy13/vDDoS-Layer4-Mapping/raw/master/vddos-layer4-mapping -o /usr/bin/vddos-layer4
@@ -47,7 +47,7 @@ Enter Your Answer [1, 2, 3... or 8]:
 
 If you use CloudFlare:
 -------------
-Register account on CloudFlare.com > Add Your Website > Overview > Zone ID
+Register account on CloudFlare.com > Add Your Website > Overview > View Zone ID
 
 Email > My Setting > API Key > Global API Key > View API Key
 
@@ -79,9 +79,9 @@ Restart CSF:
 csf -r && csf -q && service lfd restart
 ```
 
-3. More Config:
+3/ More Config:
 ---------------
 Document: http://vddos.voduy.com
 ```
-Still in beta, run at own risk! This it provided without any warranty!
+Still in beta, use at your own risk! It is provided without any warranty!
 ```
